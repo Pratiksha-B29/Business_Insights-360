@@ -151,7 +151,7 @@ The data model is the foundation of the report. All visuals and analysis depend 
 
 ## Good Practices in Data Modeling
 
-Following good practices in data modeling is essential for optimal performance. You can refer to this [blog] for more information on best practices.
+Following good practices in data modeling is essential for optimal performance. You can refer to this [blog](https://addendanalytics.com/blog/data-modelling-best-practices) for more information on best practices.
 
 
 
