@@ -114,10 +114,12 @@ Before diving into analysis, it’s important to understand the available data:
 
 ### 1. Database: gdb041
 
--** Dimension Tables:**
+**Dimension Tables:**
 
 **1. dim_customer :** Contains customer details across 27 distinct markets and 2 platform types (Brick & Mortar, E-commerce).
-**2. dim_market : ** Contains details of 27 distinct markets, divided into 7 sub-zones and 4 regions (APAC, EU, NAN, LATAM).
+
+**2. dim_market :** Contains details of 27 distinct markets, divided into 7 sub-zones and 4 regions (APAC, EU, NAN, LATAM).
+
 **3. dim_product :** Contains product details, including divisions like Peripherals, Accessories, Networking, and Storage.
 
 **- Fact Tables:**
@@ -140,7 +142,18 @@ Before diving into analysis, it’s important to understand the available data:
 **5.post_invoice_deductions:** Contains details of post-invoice deductions.
 
 ## Importing Data into Power BI
+
 Data was imported from a MySQL database into Power BI using the appropriate credentials. Importing and connecting the data correctly was crucial for building the data model.
+
+## Data Model
+
+The data model is the foundation of the report. All visuals and analysis depend on a well-structured data model. Poor data modeling can significantly affect the report's performance. In this project, we followed the Snowflake schema to ensure a robust data model.
+
+## Good Practices in Data Modeling
+
+Following good practices in data modeling is essential for optimal performance. You can refer to this [blog] for more information on best practices.
+
+
 
 
    
