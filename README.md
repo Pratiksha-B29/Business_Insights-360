@@ -149,9 +149,13 @@ Data was imported from a MySQL database into Power BI using the appropriate cred
 
 The data model is the foundation of the report. All visuals and analysis depend on a well-structured data model. Poor data modeling can significantly affect the report's performance. In this project, we followed the Snowflake schema to ensure a robust data model.
 
+![Data_model](./Data-model/Data_model.png)
+
 ## Good Practices in Data Modeling
 
 Following good practices in data modeling is essential for optimal performance. You can refer to this [blog](https://addendanalytics.com/blog/data-modelling-best-practices) for more information on best practices.
+
+
 
 
 
