@@ -155,6 +155,23 @@ The data model is the foundation of the report. All visuals and analysis depend 
 
 Following good practices in data modeling is essential for optimal performance. You can refer to this [blog](https://addendanalytics.com/blog/data-modelling-best-practices) for more information on best practices.
 
+## Dashboard Designing 
+Based on the mock ups received as requirement, the team will start designing the visuals and create measures.
+
+## Home View 
+In Home View, all the views button will be available.User will land on specific view page by clickin the button. The various views are:
+Info Page(Home Page)
+Finance View 
+Sales View 
+Marketing View 
+Supply Chain View 
+Executive View 
+
+## Overall Report 
+
+
+
+
 
 
 
