@@ -160,14 +160,43 @@ Based on the mock ups received as requirement, the team will start designing the
 
 ## Home View 
 In Home View, all the views button will be available.User will land on specific view page by clickin the button. The various views are:
-Info Page(Home Page)
-Finance View 
-Sales View 
-Marketing View 
-Supply Chain View 
-Executive View 
 
-## Overall Report 
+- Info Page(Home Page)
+- Finance View 
+- Sales View 
+- Marketing View 
+- Supply Chain View 
+- Executive View 
+
+![Home_Page](./Reports/Home_page.gif)
+
+## Finance View
+
+![Finance_view](./Reports/Finance_view_git.gif)
+
+## Sales View
+
+![Sales_view](./Reports/Sales_view_git.gif)
+
+## Marketing View
+
+![Marketing_view](./Reports/Marketing_view_git.gif)
+
+## Supply Chain View 
+
+![Supply_Chain_view](./Reports/Supply_chain_view_git.gif)
+
+## Executive View
+
+![Executive_view](./Reports/Executive_view_git.gif)
+
+You can find the full report here. [Report](https://app.powerbi.com/view?r=eyJrIjoiYjdkZmY3YzMtNTVmNS00NDRhLWE3YTYtOTFjYjRiOGUyZTJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectionb7abc32aae5628040c4d)
+
+## Project Outcome
+
+This report enables data-driven decision-making, providing insights that support informed choices. Additionally, it helps answer numerous "why" questions related to various situations by analyzing the underlying data.
+
+
 
 
 
