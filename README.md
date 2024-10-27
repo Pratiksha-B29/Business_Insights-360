@@ -1,5 +1,8 @@
 #  AtliQ_Hardware : Business_Insights_360_Project
 
+## Live Report
+[Link to Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYjdkZmY3YzMtNTVmNS00NDRhLWE3YTYtOTFjYjRiOGUyZTJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectionb7abc32aae5628040c4d)
+
 ## Project Overview
 
 AtliQ Hardware has experienced rapid growth in recent years, expanding its business globally. To sustain this growth and remain competitive, the company has decided to implement data analytics using Power BI. This project aims to provide stakeholders with actionable insights across various aspects such as finance, sales, marketing, and supply chain.
@@ -16,9 +19,6 @@ AtliQ Hardware sells computers and accessories globally through three primary ch
 - Distributors
 
 The company's recent decision to open a store in America based on surveys and Excel analysis led to unexpected losses. Competitors with advanced analytics teams outperformed AtliQ Hardware. As a result, the company decided to build its own analytics team to make data-driven decisions in the future.
-
-## Live Report
-[Link to Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYjdkZmY3YzMtNTVmNS00NDRhLWE3YTYtOTFjYjRiOGUyZTJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectionb7abc32aae5628040c4d)
 
 ## Tech Stack
 
