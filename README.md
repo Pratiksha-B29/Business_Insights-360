@@ -190,6 +190,10 @@ In Home View, all the views button will be available.User will land on specific 
 
 ![Executive_view](./Reports/Executive_view_git.gif)
 
+## Video Explaning the Project
+[![Video Explaining the Project](https://youtu.be/yHu-L0zpbzE "Business Insights 360")
+
+
 You can find the full report here. [Report](https://app.powerbi.com/view?r=eyJrIjoiYjdkZmY3YzMtNTVmNS00NDRhLWE3YTYtOTFjYjRiOGUyZTJmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectionb7abc32aae5628040c4d)
 
 ## Project Outcome
